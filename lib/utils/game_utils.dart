@@ -22,8 +22,12 @@ class Game {
     "assets/images/triangle.png",
     "assets/images/star.png",
     "assets/images/heart.png",
+    "assets/images/square.png",
+    "assets/images/square.png",
+    "assets/images/diamond.png",
+    "assets/images/diamond.png",
   ];
-  final int cardCount = 8;
+  final int cardCount = 12;
   List<Map<int, String>> matchCheck = [];
 
   //methods
